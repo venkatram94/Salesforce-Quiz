@@ -1,0 +1,233 @@
+[
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552277748469,
+            "changeTime": 1552277748469,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552277748472,
+            "changeTime": 1552277748472,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552278899283,
+            "changeTime": 1552278899283,
+            "contentHash": "4e221285910e10ba09a94e0285f71f1fcf7be9c8"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552277748476,
+            "changeTime": 1552277748476,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552277792079,
+            "changeTime": 1552277792079,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552277769838,
+            "changeTime": 1552277769838,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1552278899202,
+            "changeTime": 1552278899202,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1552278899222,
+            "changeTime": 1552278899222,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1552278899243,
+            "changeTime": 1552278899243,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1552278899260,
+            "changeTime": 1552278899260,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1552278899277,
+            "changeTime": 1552278899277,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1552278899287,
+            "changeTime": 1552278899287,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552278899197,
+            "changeTime": 1552278899197,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552278899192,
+            "changeTime": 1552278899192,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552278899189,
+            "changeTime": 1552278899189,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552278899271,
+            "changeTime": 1552278899271,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vburri\\.sfdx\\LWC\\SignatureQuiz\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552278899286,
+            "changeTime": 1552278899286,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
